@@ -5,7 +5,9 @@
   <a href="https://github.com/knziiy">
     <img height="20" src="https://img.shields.io/github/followers/knziiy?label=follow&logo=github&style=flat" />
   </a>
-
+  <a href="https://zenn.dev/knziiy">
+    <img height="20" src="https://badgen.org/img/zenn/knziiy/articles?style=plastic" alt="Articles" />
+  </a>
   <a href="https://zenn.dev/knziiy">
     <img height="20" src="https://badgen.org/img/zenn/knziiy/likes?style=plastic" alt="Likes" />
   </a>
