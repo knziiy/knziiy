@@ -1,4 +1,4 @@
-<p align="left">
+<div align="left">
   <a href="https://github.com/knziiy">
     <img height="20" src="https://komarev.com/ghpvc/?username=knziiy" />
   </a>
@@ -6,9 +6,16 @@
     <img height="20" src="https://img.shields.io/github/followers/knziiy?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://zenn.dev/knziiy">
-    <img height="20" src="https://badgen.org/img/zenn/knziiy/articles?style=plastic" />
+    <img height="20" src="https://badgen.org/img/zenn/knziiy/articles?style=plastic" alt="Articles" />
   </a>
-</p>
+  <a href="https://zenn.dev/knziiy">
+    <img height="20" src="https://badgen.org/img/zenn/knziiy/likes?style=plastic" alt="Likes" />
+  </a>
+  <a href="https://zenn.dev/knziiy">
+    <img height="20" src="https://badgen.org/img/zenn/knziiy/followers?style=plastic" alt="Followers" />
+  </a>
+
+</div>
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knziiy&theme=gruvbox)
