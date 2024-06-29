@@ -1,7 +1,7 @@
 <div align="left">
-  <a href="https://github.com/knziiy">
+<!--   <a href="https://github.com/knziiy">
     <img height="20" src="https://komarev.com/ghpvc/?username=knziiy" />
-  </a>
+  </a> -->
   <a href="https://github.com/knziiy">
     <img height="20" src="https://img.shields.io/github/followers/knziiy?label=follow&logo=github&style=flat" />
   </a>
