@@ -24,9 +24,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knziiy&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=knziiy&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=knziiy&theme=gruvbox)
-
 ## Degital Badges
 
 <a href="https://www.credly.com/badges/84062861-0147-46fd-9bdc-b6999c65b19d"><img src="https://images.credly.com/size/220x220/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer - Professional" width="100"></a> 
@@ -36,5 +33,6 @@
 <a href="https://www.credly.com/badges/a9d0d3ab-90da-41f1-af6d-14c373ac8ad0"><img src="https://images.credly.com/size/220x220/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" width="100"></a>
 <a href="https://www.credly.com/badges/0debb4f2-6073-4c5d-adbe-9b59020fee6c/public_url"><img src="https://images.credly.com/size/220x220/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="100"></a>
 <a href="https://www.credly.com/badges/307c8027-11fd-4ee7-86d0-7b915a681bd0/public_url"><img src="https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" width="100"></a>
+<a href="https://www.credly.com/badges/e09ab398-40f3-4911-8dd6-f8287d81252f/public_url"><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100"></a>
 <a href="https://www.credly.com/badges/de4eee49-4b43-44d3-8970-15f5bd2579b4/public_url"><img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="100"></a>
 <a href="https://www.credly.com/badges/62a6ecda-7935-4f0c-9313-d5191c495181/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"></a>
